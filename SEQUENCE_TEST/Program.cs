@@ -110,6 +110,8 @@ namespace SEQUENCE_TEST
 
             Console.ReadLine();
 
+            Console.ReadLine();
+
             //string str = sb.ToString();
             //int it = Array.IndexOf(arr, "1");
         }
